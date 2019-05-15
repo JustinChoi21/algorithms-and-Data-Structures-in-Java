@@ -3,10 +3,10 @@ This repo is a collection of solutions of algoritms and data structures in Java.
 
 # Table of Contents
 * Data Structures
-- Arrays
-- Linked Lists
-- Stacks & Queues
-- Hash Tables
+  - Arrays
+  - Linked Lists
+  - Stacks & Queues
+  - Hash Tables
 
 * Algorithms
 - Binary Trees
