@@ -1,4 +1,4 @@
-# Algorithms-and-Data-Structures-in-Java
+# Algorithms and Data Structures in Java
 This repo is a collection of solutions of algoritms and data structures in Java. Also it contains solutions of leetcode problems and Cracking the Coding Interview Book's questions that I have solved. This is a work in progress. You can also refer to my blog.
 
 # Table of Contents
