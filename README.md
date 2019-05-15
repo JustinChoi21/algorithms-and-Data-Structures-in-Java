@@ -9,14 +9,14 @@ This repo is a collection of solutions of algoritms and data structures in Java.
   - Hash Tables
 
 * Algorithms
-- Binary Trees
-- Binary Heaps
-- Fibonacci Series & Memorization
-- Sorting
-- Graphs
+  - Binary Trees
+  - Binary Heaps
+  - Fibonacci Series & Memorization
+  - Sorting
+  - Graphs
 
 * Etc
-- Big O Notation
+  - Big O Notation
 
 # Environment
 ### Java
